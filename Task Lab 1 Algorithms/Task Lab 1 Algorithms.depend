@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1608311343 source:t:\fcai\code\algorithms\task lab 1 algorithms\main.cpp
+	<iostream>
+	<Time.h>
+	<sys/time.h>
+	<ctime>
+	<algorithm>
+	<string>
+	<string.h>
+
